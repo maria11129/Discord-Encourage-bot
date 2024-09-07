@@ -5,7 +5,7 @@ This Discord bot is designed to spread positivity and inspiration through text m
 ## Features
 
 * **`$hello`** : Responds with a welcoming message.
-* **`$inspiring`** : Sends an inspiring quote.
+* **`$inspire`** : Sends an inspiring quote.
 * **`$new [message]`** : Adds a new encouraging message to the database.
 * **`$list`** : Lists all the encouraging messages currently in the database.
 * **`$del [index]`** : Deletes an encouraging message from the database based on its index.
