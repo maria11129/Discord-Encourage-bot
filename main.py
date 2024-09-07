@@ -85,9 +85,7 @@ async def on_message(message):
         print("Inspire command triggered!")  # Debugging
         await message.channel.send(quote)  # Send the quote
 
-    if message.content.startswith('$abdeRRaouf'):
-        print("abdeRRaouf command triggered!")  # Debugging
-        await message.channel.send('The sigma diamond woho!')
+
 
     if data["responding"]:  # Use the "responding" value from the JSON file
         options = starter_encouragements
