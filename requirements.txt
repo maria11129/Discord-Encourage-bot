@@ -24,7 +24,7 @@ MarkupSafe == 2.1.5
 multidict == 6.0.5
 packaging == 24.1
 pluggy == 1.5.0
-protobuf == 4.25.4
+protobuf == 4.25.8
 pycparser == 2.22
 pycryptodomex == 3.20.0
 pyseto == 1.7.9
